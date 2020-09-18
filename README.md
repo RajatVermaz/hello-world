@@ -1,2 +1,4 @@
 # hello-world
-first repo
+#first repo
+print('Hello world')
+print('Long time no see')
